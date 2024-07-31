@@ -1,2 +1,3 @@
 node_modules
 #file này dùng để ghi thư mục không update lên git 
+# khi tải file từ git về chạy lệnh "npm install" để cài node_modules 
